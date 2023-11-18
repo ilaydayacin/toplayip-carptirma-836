@@ -1,0 +1,10 @@
+C:\Users\Win10\Desktop\ilkay py\c\toplayıp çarptırma ve 5 ekleme\toplayıp çarptırma ve 5 ekleme\obj\Debug\toplayıp çarptırma ve 5 ekleme.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\ilkay py\c\toplayıp çarptırma ve 5 ekleme\toplayıp çarptırma ve 5 ekleme\obj\Debug\toplayıp_çarptırma_ve_5_ekleme.Form1.resources
+C:\Users\Win10\Desktop\ilkay py\c\toplayıp çarptırma ve 5 ekleme\toplayıp çarptırma ve 5 ekleme\obj\Debug\toplayıp_çarptırma_ve_5_ekleme.Properties.Resources.resources
+C:\Users\Win10\Desktop\ilkay py\c\toplayıp çarptırma ve 5 ekleme\toplayıp çarptırma ve 5 ekleme\obj\Debug\toplayıp çarptırma ve 5 ekleme.csproj.GenerateResource.cache
+C:\Users\Win10\Desktop\ilkay py\c\toplayıp çarptırma ve 5 ekleme\toplayıp çarptırma ve 5 ekleme\obj\Debug\toplayıp çarptırma ve 5 ekleme.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\ilkay py\c\toplayıp çarptırma ve 5 ekleme\toplayıp çarptırma ve 5 ekleme\bin\Debug\toplayıp çarptırma ve 5 ekleme.exe.config
+C:\Users\Win10\Desktop\ilkay py\c\toplayıp çarptırma ve 5 ekleme\toplayıp çarptırma ve 5 ekleme\bin\Debug\toplayıp çarptırma ve 5 ekleme.exe
+C:\Users\Win10\Desktop\ilkay py\c\toplayıp çarptırma ve 5 ekleme\toplayıp çarptırma ve 5 ekleme\bin\Debug\toplayıp çarptırma ve 5 ekleme.pdb
+C:\Users\Win10\Desktop\ilkay py\c\toplayıp çarptırma ve 5 ekleme\toplayıp çarptırma ve 5 ekleme\obj\Debug\toplayıp çarptırma ve 5 ekleme.exe
+C:\Users\Win10\Desktop\ilkay py\c\toplayıp çarptırma ve 5 ekleme\toplayıp çarptırma ve 5 ekleme\obj\Debug\toplayıp çarptırma ve 5 ekleme.pdb
